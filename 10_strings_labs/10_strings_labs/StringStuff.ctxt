@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StringStuff
+comment1.params=b
+comment1.target=StringStuff(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ firstlast()
+comment3.params=
+comment3.target=java.lang.String\ m()
+comment4.params=
+comment4.target=boolean\ same()
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Sorts
+comment1.params=stuff
+comment1.target=void\ insertionSort(int[])
+comment2.params=stuff
+comment2.target=void\ selectionSort(int[])
+comment3.params=stuff\ front\ back
+comment3.target=void\ mergeSort(int[],\ int,\ int)
+comment4.params=stuff\ front\ back
+comment4.target=void\ merge(int[],\ int,\ int)
+numComments=5

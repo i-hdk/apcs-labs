@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=AlienHorde
+comment1.params=size
+comment1.target=AlienHorde(int)
+comment2.params=al
+comment2.target=void\ add(Alien)
+comment3.params=window
+comment3.target=void\ drawEmAll(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ moveEmAll()
+comment5.params=shots
+comment5.target=void\ removeDeadOnes(java.util.List)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=java.util.List\ getAliens()
+comment7.text=\r\n\ @return\ the\ aliens\r\n
+comment8.params=aliens
+comment8.target=void\ setAliens(java.util.List)
+comment8.text=\r\n\ @param\ aliens\ the\ aliens\ to\ set\r\n
+numComments=9
